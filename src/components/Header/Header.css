@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.container-fluid {
+  background-color: #10002e;
+}
+.Logo {
+    max-height: 80px;
+    max-width: 80px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+  }
+  /* Animação de aumento */
+  .Logo:hover {
+    transform: scale(1.2); 
+  }

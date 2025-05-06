@@ -1,0 +1,7 @@
+.Main{
+    border-radius: 15px;
+    background-color: rgb(1,36,67);
+    color: white;
+    flex: 1;
+    background-image: linear-gradient(to bottom, #10002e, black);
+}
